@@ -1,0 +1,30 @@
+
+.travel_mainDiv{
+    border: 1px solid lightgray;
+}
+
+
+.travel_mainDiv img{
+    width: 100%;
+}
+
+
+.travel_mainDiv h5 , .travel_mainDiv p{
+
+     margin:20px;
+}
+
+
+.movie_text
+{
+    color:orange;
+}
+
+#op{
+    font-family: fantasy;
+    color: red;
+}
+
+#op:hover{
+    background-color: cornflowerblue;
+}
